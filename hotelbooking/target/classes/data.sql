@@ -1,0 +1,1 @@
+INSERT INTO HotelEntity (name, destination) VALUES ('Hotel ABC', 'NY'), ('Hotel XYZ', 'London');
